@@ -1,0 +1,33 @@
+.itemCard {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 15px;
+    max-width: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.itemCard h2{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.itemCard h5{
+    font-size: 14px;
+    color: gray;
+}
+
+.itemCard p{
+    color: black;
+
+}
+
+.itemCard button{
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+
+}
