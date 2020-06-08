@@ -7,7 +7,7 @@ import Botao from '../../components/botao';
 import Item from '../../components/item';
 import Container from '../../components/container';
 
-function App() {
+function Home() {
   return (
     <div className="App">
       <Header />
@@ -38,4 +38,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
